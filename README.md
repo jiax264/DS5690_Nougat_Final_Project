@@ -21,7 +21,7 @@ Now, I'd like to present an example of a scanned textbook page. Considering how 
 
 ## Comparison between Kurzweil OCR, ChatGPT-4, & Nougat 
 Having pinpointed potential issues with OCR on poor quality scanned documents, let's now examine their actual impact on performance in a more concrete manner.
-[Comparison](https://docs.google.com/document/d/1ykknJjCQ522MkBZKdvObo1KkGHpOF0kbGUwhGVEt4uw/edit?usp=sharing https://github.com/clovaai/donut/tree/master)
+[Comparison](https://docs.google.com/document/d/1ykknJjCQ522MkBZKdvObo1KkGHpOF0kbGUwhGVEt4uw/edit?usp=sharing) 
 
 ### Why my Approach is Superior 
 My approach in this project offers advantages over using ChatGPT-4. With ChatGPT-4, you're limited to processing only a few images at a time; it can't handle an entire PDF. This means capturing screenshots page by page, waiting for each to process before moving on. Using the GPT-4 API, on the other hand, incurs a cost per use. In contrast, my method with Nougat allows for the entire PDF to be uploaded at once. It processes the document and automatically downloads a correctly formatted Word document to your computer, all free of charge.

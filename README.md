@@ -31,6 +31,7 @@ Before demonstrating the code, let me briefly discuss Nougat, the model used in 
 
 ![image](https://github.com/jiax264/DS5690_Nougat_Final_Project/assets/64748973/25dd4bf3-bf51-43a2-ab43-44686f734907)
 ![image](https://github.com/jiax264/DS5690_Nougat_Final_Project/assets/64748973/5d8f7791-bb6d-4e9e-9986-52923efb8ae4)
+
 A key aspect that sets the Nougat model apart is the diverse data augmentation techniques used during its training. As illustrated in this figure below, the model was exposed to various data manipulations like blurring, bolding text, rotating, and altering brightness. This diversity in training contributes significantly to the model's robustness. Given the varying quality of scanned documents, as exemplified in my earlier demonstration, incorporating such distortion and dirtiness into training enhances the model's ability to handle real-world scenarios effectively.
 ![image](https://github.com/jiax264/DS5690_Nougat_Final_Project/assets/64748973/302be7dc-daa7-4c63-b778-e6709ec5f59f)
 
